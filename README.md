@@ -1,17 +1,17 @@
 ---------------------------------------------------------------- 
-Myung-Kyu Yi 
-Research Professor 
-Dept. of Computer Engineering, Gachon University 
+- Myung-Kyu Yi 
+- Research Professor 
+- Dept. of Computer Engineering, Gachon University 
 College of IT,  Gachon University. 
 
-220 AI Convergence Hall, Gachon University ,  
+- 220 AI Convergence Hall, Gachon University ,  
 1342 Seongnamdaero, Sujeong-Gu, Seongnam, Gyeonggi-Do,  
 13120, South Korea. 
 
-Email: kainos@gachon.ac.kr  
+- Email: kainos@gachon.ac.kr  
 ----------------------------------------------------------------
 
-(Publications)
+- Publications
 
 - Myung-Kyu Yi and Seong Oun Hwang, A Data-driven Feature Extraction Method Based on Data Supplement for Human Activity Recognition, IEEE Sensors Journal, May 21, 2024 (accepted).
 - Abdul Rehman, Myung-Kyu Yi, Abdul Majeed and Seong Oun Hwang, Early Diagnosis of Alzheimer’s Disease Using 18F-FDG PET With Soften Latent Representation, IEEE Access, Vol. 12, pp. 87923-87933, July 1, 2024.
