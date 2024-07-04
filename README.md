@@ -1,6 +1,5 @@
 ---------------------------------------------------------------- 
-- Myung-Kyu Yi 
-- Research Professor 
+Myung-Kyu Yi, Research Professor 
 - Dept. of Computer Engineering, Gachon University 
 College of IT,  Gachon University. 
 
