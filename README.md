@@ -3,7 +3,7 @@ Myung-Kyu Yi, Research Professor
 - Dept. of Computer Engineering, Gachon University 
 College of IT,  Gachon University. 
 
-- 220 AI Convergence Hall, Gachon University ,  
+- AI Convergence Hall, Gachon University ,  
 1342 Seongnamdaero, Sujeong-Gu, Seongnam, Gyeonggi-Do,  
 13120, South Korea. 
 
