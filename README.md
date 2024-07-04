@@ -10,7 +10,7 @@ College of IT,  Gachon University.
 - Email: kainos@gachon.ac.kr  
 ----------------------------------------------------------------
 
-- Publications
+Publications
 
 - Myung-Kyu Yi and Seong Oun Hwang, A Data-driven Feature Extraction Method Based on Data Supplement for Human Activity Recognition, IEEE Sensors Journal, May 21, 2024 (accepted).
 - Abdul Rehman, Myung-Kyu Yi, Abdul Majeed and Seong Oun Hwang, Early Diagnosis of Alzheimer’s Disease Using 18F-FDG PET With Soften Latent Representation, IEEE Access, Vol. 12, pp. 87923-87933, July 1, 2024.
