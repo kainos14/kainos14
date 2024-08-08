@@ -1,14 +1,11 @@
 ---------------------------------------------------------------- 
 Myung-Kyu Yi, Research Professor 
-- Dept. of Computer Engineering, Gachon University 
-College of IT,  Gachon University. 
+- Smart Ubiquitous Healthcare Laboratory, Hanyang University 
+- College of Medicine II, Hanyang University,
+- 222, Wangsimni-ro, Seongdong-gu, Seoul, 04763, South Korea. 
 
-- AI Convergence Hall, Gachon University ,  
-1342 Seongnamdaero, Sujeong-Gu, Seongnam, Gyeonggi-Do,  
-13120, South Korea. 
-
-- Email: kainos@gachon.ac.kr  
-----------------------------------------------------------------
+- Email: kainos2k@gmail.com  
+---------------------------------------------------------------- 
 
 Publications
 
