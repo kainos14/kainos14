@@ -4,7 +4,7 @@ Myung-Kyu Yi, Research Professor
 - College of Medicine II, Hanyang University,
 - 222, Wangsimni-ro, Seongdong-gu, Seoul, 04763, South Korea. 
 
-- Email: kainos2k@gmail.com  
+- Email: kainos14@hanyang.ac.kr
 ---------------------------------------------------------------- 
 
 Publications
