@@ -9,8 +9,6 @@ Myung-Kyu Yi, Research Professor
 
 Publications
 
-♣ Myung-Kyu Yi and Seong Oun Hwang, A new lightweight deep learning model optimized with pruning and dynamic quantization to detect freezing gait on wearable devices, Computers in Biology and Medicine (IF 7.0), Revision
-
 ♣ Myung-Kyu Yi and Seong Oun Hwang, A Data-driven Feature Extraction Method Based on Data Supplement for Human Activity Recognition, IEEE Sensors Journal (IF 4.3), June 4, 2024.
 
 ♣ Myung-Kyu Yi, Kyung Hyun Han and Seong Oun Hwang, Fall Detection of the Elderly Using Denoising LSTM-based Convolutional Variant Autoencoder, IEEE Sensors Journal (IF 4.3), Vol. 24, No. 11, pp. 18556-18567, 25 April, 2024.
